@@ -1,0 +1,7 @@
+Bucket Searching
+Lazys3
+Bucket Stream
+
+#AWS Command Line
+#pip3 install awscli
+~$ aws s3 ls s3://BUCKET_NAME/
