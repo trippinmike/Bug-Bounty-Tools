@@ -1,0 +1,13 @@
+Scope Discovery
+#reverse lookup- http://viewdns.info
+
+~$ whois <domain name>
+~$ whois <ip address>
+~$ nslookup <domain name>
+
+Autonomous System Numbers (ASN)
+~$ whois -h whois.cymru.com <ip address>
+
+Certificate parsing
+cert.sh
+
